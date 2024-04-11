@@ -48,9 +48,10 @@ lib/generated_plugin_registrant.dart
 #pubspec.lock
 
 
-**/macos
-**/web
-**/windows
+**/macos/**
+**/web/**
+**/windows/**
+**/linux/**
 
 
 # Android related
