@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:tp_dio_retrofit/screens/todo_list_screen.dart';
 
 void main() {
   runApp(const MainApp());
@@ -10,11 +11,6 @@ class MainApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-      home: Scaffold(
-        body: Center(
-          child: Text('Hello World!'),
-        ),
-      ),
-    );
+      home: TodoListScreen());
   }
 }

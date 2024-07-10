@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500437212297",
+    "project_id": "tpflutter-fec48",
+    "storage_bucket": "tpflutter-fec48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500437212297:android:cbaedc81932bed170efa58",
+        "android_client_info": {
+          "package_name": "com.example.tp_firebase_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs20xzUW2bs_JIcji_54rdAtauHPp5h4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
